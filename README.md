@@ -1,4 +1,4 @@
-# Covid Exploration Projects
+# Covid Exploration Project
 In this project, I examine data relating to Covid from the start up to a little over a year into the pandemic in the context of Finland and globally.
 I started by exploring Total Cases vs Total deaths to find out the likelihood of dying if a person in Finland contracted Covid in Finland which revealed a low likelihood of dying (about 1%) towards the middle of the pandemic as compared to the beginning. This could have been due to the introduction of vaccines. 
 I went on to examining Total Cases vs Total Population to know the percentage of population that contracted covid in Finland. The data revealed that the percentage of population in Finland that contracted covid kept rising steadily and by the April 2021 almost 2% of the population in Finland had contracted covid. 
